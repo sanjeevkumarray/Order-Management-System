@@ -175,17 +175,4 @@ Develop a **scalable, event-driven Order Processing System** using **Node.js, Ex
 
 ---
 
-## Expected Deliverables
-1. **GitHub Repository**
-   - Well-structured codebase
-   - Proper **README** with setup instructions
-2. **Postman Collection** for API Testing
-3. **Short Explanation** (Optional)
-   - Brief document or video explaining system architecture & approach
-
-## Evaluation Criteria
-✅ Backend Concepts (Auth, Async Processing, Caching)  
-✅ AWS Integration (SQS, SES, Redis Optimization)  
-✅ Code Quality (Structure, Modularity, Documentation)  
-✅ Error Handling & Resilience (Retries, Stock Validation)  
 
